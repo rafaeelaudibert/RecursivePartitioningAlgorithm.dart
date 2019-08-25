@@ -1,3 +1,9 @@
 # Executable and object files
 **/*.exe
 **/*.o
+
+# Result files
+**/*.mp
+**/*.svg
+**/*.tex
+**/*.txt
